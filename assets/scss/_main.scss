@@ -1,0 +1,25 @@
+#page1 {
+  box-sizing: border-box;
+  margin: 0%;
+
+  .pm1 {
+    a {
+      text-decoration: none;
+    }
+    .btn {
+      background: $third-color;
+      padding: 8px 20px;
+      margin-left: 30px;
+      border-radius: 4px;
+      color: #fff;
+    }
+  }
+  .pm2 {
+    .img {
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
